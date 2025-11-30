@@ -4,7 +4,7 @@ This is a basic keylogger built using Python and the pynput library.
 The program records every keystroke along with the exact timestamp and saves them to a text file.
 It demonstrates how keylogging works and how keyboard inputs can be captured in a controlled ethical environment.
 
-** Features **
+**Features**
 
 - Logs all keyboard inputs
 
